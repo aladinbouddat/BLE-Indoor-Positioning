@@ -1,0 +1,22 @@
+{
+  "name": "ble-scan",
+  "version": "1.0",
+  "title": "BLE Scan",
+  "description": "App that scans for Bluetooth Low Energy (BLE) devices and display the signal strength (rssi) of found devices",
+  "tags": [
+    {
+      "label": "ble",
+      "type": "comm"
+    }
+  ],
+  "libraries": [
+    {
+      "name": "jquery",
+      "version": "2.1.1"
+    }
+  ],
+  "index-file": "index.html",
+  "uuid": "b12cbc1c-6b75-4bda-b613-0c4be36a6a99",
+  "icon": "app-icon.png",
+  "doc-url": "https://evothings.com/2.1/doc/examples/ble-scan.html"
+}
